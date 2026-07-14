@@ -53,3 +53,11 @@ dkms.conf
 
 # debug information files
 *.dwo
+# workspace files
+*.vscode
+.vscode
+*.code-workspace
+#internal docs and databases
+*.log
+*.db
+*.odf
